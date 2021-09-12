@@ -19,7 +19,7 @@ function MyApp({ Component, pageProps }) {
         { merge: true }
       );
     }
-  }, []);
+  }, [user]);
   if (loading) {
     return <Loading></Loading>;
   }
