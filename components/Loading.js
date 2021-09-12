@@ -6,8 +6,6 @@ function Loading() {
       <Image
         src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
         alt=""
-        className=""
-        style=""
         height={200}
         width={200}
         style={{ margin_bottom: 10 }}
