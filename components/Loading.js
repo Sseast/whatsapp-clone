@@ -8,7 +8,7 @@ function Loading() {
         alt=""
         height={200}
         width={200}
-        style={{ margin_bottom: 10 }}
+        className={{ margin_bottom: 10 }}
       />
       <Circle color="#3CBC28" size={60}></Circle>
     </center>
